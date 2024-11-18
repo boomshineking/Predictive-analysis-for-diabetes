@@ -1,1 +1,1 @@
-# Predictive-analysis-for-diabetes
+i have used machine learning algorithms that are logistic regression,SVM,Random Forest , Decision Tree out of which Random forest seems to be the most promising so i used Random Forest to produce prediction on whether if a patient is diabetic or not
